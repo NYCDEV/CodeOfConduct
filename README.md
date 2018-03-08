@@ -4,7 +4,7 @@ All delegates, speakers, sponsors and volunteers at any NYC⚡️DEV event are r
 
 ## The Quick Version
 
-NYC⚡️DEV is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+NYC⚡️DEV is dedicated to providing a harassment-free event experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks, workshops, parties, Twitter and other online media. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organisers.
 
 ## The Less Quick Version
 
@@ -14,7 +14,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 Sponsors are also subject to the anti-harassment policy. In particular, sponsors should not use sexualized images, activities, or other material. Staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment.
 
-If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
+If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of event staff immediately.
 
