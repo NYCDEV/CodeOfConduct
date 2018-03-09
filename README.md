@@ -17,7 +17,7 @@ NYC⚡️DEV is committed to the free expression of ideas in a respectful and pr
 * Physical, verbal, or written, abuse, intimidation, threats, annoyance, harassment, stalking, pushing, shoving or use of any physical force whatsoever against any person, which in any way creates a disturbance that is disruptive or dangerous, or creates apprehension in a person, as determined by event management, in their sole discretion.
 * Any destruction or vandalizing of personal property or event site or materials.
 * Any lewd or offensive behavior or language, using sexually explicit or offensive language or conduct, obscene gestures, or racial, religious or ethnic slurs.
-* Possessing any illegal substance or item. Index – San Francisco does not tolerate the use or abuse of illegal substances or items anywhere in the event venues.
+* Possessing any illegal substance or item. NYC⚡️DEV does not tolerate the use or abuse of illegal substances or items anywhere in the event venues.
 * Assembling for the purpose of, or resulting in, disturbing the peace, or committing any unlawful act or engaging in any offensive behavior.
 * Any other illegal activity.
 * Advocating for, or encouraging, any of the above behavior.
