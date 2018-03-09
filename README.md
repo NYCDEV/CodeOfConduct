@@ -1,10 +1,10 @@
-# NYC⚡️DEV CODE OF CONDUCT
+# NYC⚡️DEV Code Of Conduct
 
 NYC⚡️DEV, hereinafter referred to as the Event Organizers, are dedicated to providing a safe, respectful, comfortable, and harassment-free environment for all event participants. NYC⚡️DEV will be free of discrimination or harassment based on any protected characteristic, including race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, or age, political affiliation, or status as a special disabled veteran or other veteran.
 
 Event Organizers expect that all participants, including delegates/attendees, speakers, exhibitors, organizers, volunteers, and guests, will conform to the following Code of Conduct.
 
-## UNACCEPTABLE BEHAVIOR
+## Unacceptable behaviour
 
 NYC⚡️DEV is committed to the free expression of ideas in a respectful and professional manner. Participants will not engage in unacceptable behavior which includes, but is not limited to:
 
@@ -22,13 +22,13 @@ NYC⚡️DEV is committed to the free expression of ideas in a respectful and pr
 * Any other illegal activity.
 * Advocating for, or encouraging, any of the above behavior.
 
-## ENFORCEMENT
+## Enforcement
 
 If a participant engages in harassing behavior or any other unacceptable behavior, event organizers may take any actions they deem necessary to keep the event a safe and comfortable environment for all other participants. This includes expelling the offender from the event with no warning or refund. If you, as a participant, are asked to stop any inappropriate behavior, you must comply immediately.
 
 By participating in this event, you agree to adhere to this Code of Conduct. If you violate it, you may be expelled from the event and future events without refund at the discretion of the event organizers and the event organizers may take such other action as it deems appropriate.
 
-## REPORTING
+## Reporting
 
 If someone engaged in harassing or otherwise unacceptable behavior and it causes you or anyone else to feel unsafe or uncomfortable during this event, please report the circumstances as soon as possible, so that effective, appropriate action can be taken.
 
