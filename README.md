@@ -32,7 +32,7 @@ By participating in this event, you agree to adhere to this Code of Conduct. If 
 
 If someone engaged in harassing or otherwise unacceptable behavior and it causes you or anyone else to feel unsafe or uncomfortable during this event, please report the circumstances as soon as possible, so that effective, appropriate action can be taken.
 
-You can make a personal report by:.
+You can make a personal report by:
 * Direct messaging one of the [organizing team on meetup.com](https://www.meetup.com/NYCDEV/members/?op=leaders).
 * Speaking with a designated staff member or [organizer](https://www.meetup.com/NYCDEV/members/?op=leaders).
 
