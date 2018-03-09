@@ -1,4 +1,4 @@
-# NYC⚡️DEV CodeOfConduct
+# NYC⚡️DEV CODE OF CONDUCT
 
 NYC⚡️DEV, hereinafter referred to as the Event Organizers, are dedicated to providing a safe, respectful, comfortable, and harassment-free environment for all event participants. NYC⚡️DEV will be free of discrimination or harassment based on any protected characteristic, including race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, or age, political affiliation, or status as a special disabled veteran or other veteran.
 
